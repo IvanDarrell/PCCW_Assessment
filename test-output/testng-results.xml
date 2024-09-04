@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="7" total="9" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-04T12:52:03 PST" name="Assessment" finished-at="2024-09-04T12:52:34 PST" duration-ms="31172">
+    <groups>
+    </groups>
+    <test started-at="2024-09-04T12:52:03 PST" name="Positive Scenario" finished-at="2024-09-04T12:52:34 PST" duration-ms="31172">
+      <class name="assessment.CommonTest">
+        <test-method signature="executebrowser()[pri:0, instance:assessment.CommonTest@5bf0d49]" started-at="2024-09-04T12:52:03 PST" name="executebrowser" finished-at="2024-09-04T12:52:08 PST" duration-ms="5542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executebrowser -->
+        <test-method signature="PositiveScenario()[pri:0, instance:assessment.CommonTest@5bf0d49]" started-at="2024-09-04T12:52:08 PST" name="PositiveScenario" finished-at="2024-09-04T12:52:34 PST" duration-ms="25593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PositiveScenario -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:assessment.CommonTest@5bf0d49]" started-at="2024-09-04T12:52:34 PST" name="afterSuite" finished-at="2024-09-04T12:52:34 PST" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- assessment.CommonTest -->
+    </test> <!-- Positive Scenario -->
+  </suite> <!-- Assessment -->
+</testng-results>
